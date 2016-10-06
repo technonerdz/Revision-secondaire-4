@@ -1,1 +1,14 @@
 
+Test1:
+
+
+Test2:
+
+
+Test3:
+1. Résoudre
+
+2. Expressions rationnelles
+
+3. Complétion carré
+
