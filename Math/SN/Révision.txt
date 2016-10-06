@@ -6,9 +6,7 @@ Test2:
 
 Test3:
 1. Résoudre
-Résoudre une équation ou une inéquation du premier degré: http://www.alloprof.qc.ca/bv/pages/m1085.aspx
-
-Vidéos: http://www.youtube.com/playlist?list=PL-fvKNAy6H7uPA8G8QIl65PJispDIa6qC
+Résoudre une équation du second degré à une variable: http://www.alloprof.qc.ca/bv/pages/m1397.aspx
 
 
 2. Expressions rationnelles
